@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <id>presencenb</id>
+    <name>Presence NB6</name>
+    <description>Plugin pour suivre la présence d'équipements connectés sur la Neufbox</description>
+    <icon>fa fa-eye</icon>
+    <licence>AGPL</licence>
+    <author>Romain OLLIER</author>
+    <installation>Aucune</installation>
+    <require>2.2</require>
+    <category>communication</category>
+    <hasDependency>1</hasDependency>
+</info>
+

@@ -1,0 +1,4 @@
+Le plugin Présence NB6 vous affiche l'état des équipements que vous souhaitez suivre après les avoir configuré.
+Il ne s'appuie pas sur des pings mais sur l'API de la neufbox, celle-ci remonte en temps réel la liste des équipements connectés même s'il ne répondent pas aux pings ou sont inactifs.
+L'un des avantages majeurs de ce plugin est la detection d'équipements non connectés en permanence type smartphone/tablette. Ainsi pour détecter la présence d'un personne au domicile il suffira de configuré l'adresse mac de son smartphone. S'il est à porté de la box il pourra être identifié comme actif s'il a traffiqué récemment y compris s'il ne reste pas connecté/actif de façon permanente.
+
