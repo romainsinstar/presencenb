@@ -20,8 +20,8 @@ Il s'agit des informations optionelles qui seront affichées sur votre dashboard
 
 - Table des hôtes
 image:../images/hotes.jpg[]
-C'est ici que vous allez configurer les équipements à suivre grâce à leur adresse MAC
-Le champs keepalive est très important, il s'agit du temps en secondes suivant la dernière activité d'un host au bout duquel il n'est plus considéré comme actif. Par exemple, si votre smartphone en veille ne se connecte que 5 secondes toutes les 9 minutes environ et que vous lui fixez un keepalive à 600 (10 minutes) alors Présence NB6 le considèrera toujours actif si sa dernière activité remonte à moins de 10 minutes même s'il n'est plus connecté à l'instant T.
+C'est ici que vous allez configurer les équipements(hôtes) à suivre grâce à leur adresse MAC
+Le champs keepalive est très important, il s'agit du temps en secondes suivant la dernière activité d'un hôte au bout duquel il n'est plus considéré comme actif. Par exemple, si votre smartphone en veille ne se connecte que 5 secondes toutes les 9 minutes environ et que vous lui fixez un keepalive à 600 (10 minutes) alors Présence NB6 le considèrera toujours actif si sa dernière activité remonte à moins de 10 minutes même s'il n'est plus connecté à l'instant T.
 Pour un PC le keepalive peut être réglé très bas, pour un smartphone il peut facilement aller jusqu'à 900 (15 minutes).
 
 === Les Commandes
